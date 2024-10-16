@@ -1,2 +1,3 @@
-# ip-2
-İnternet programcılığı Dersi
+# Internet Programcılığı II
+
+Ders kapsamında çalıştığımız Laravel tabanlı proje.
